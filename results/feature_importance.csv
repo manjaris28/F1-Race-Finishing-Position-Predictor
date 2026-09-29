@@ -1,0 +1,12 @@
+,impurity share,permutation: test MAE increase
+qualifying_position,0.455,0.88
+constructor_avg_finish_last_5,0.132,0.237
+driver_avg_qualifying_last_5,0.071,0.222
+grid_position,0.069,0.2
+driver_avg_finish_last_5,0.062,0.054
+constructor_points_before_race,0.062,0.04
+driver_points_before_race,0.051,0.061
+constructor,0.029,-0.032
+driver,0.025,-0.008
+circuit,0.024,0.003
+season,0.021,0.0

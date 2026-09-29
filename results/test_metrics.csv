@@ -1,0 +1,10 @@
+,MAE,Median AE,Within ±3 (%),Within ±5 (%),Mean error,Spearman (mean)
+Baseline: qualifying position,3.08,2.0,68.06,82.78,-0.02,0.7
+Baseline: grid position,3.12,2.0,67.85,82.36,0.0,0.69
+Random Forest,3.26,2.75,55.53,80.17,0.0,0.67
+Linear Regression (grid only),3.3,2.83,52.3,81.52,-0.01,0.69
+Gradient Boosting,3.3,2.79,54.07,80.17,-0.07,0.67
+Linear Regression,3.36,2.79,52.92,78.39,0.1,0.66
+HistGradientBoosting  ← selected on 2023,3.42,2.92,51.36,78.5,-0.08,0.64
+Baseline: driver form (last 5),3.62,3.0,51.57,75.57,-0.03,0.57
+Baseline: constructor form (last 5),3.69,3.0,51.04,73.28,-0.03,0.56

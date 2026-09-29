@@ -1,0 +1,17 @@
+# Virtual environment (rebuilt from requirements.txt)
+venv/
+.venv/
+
+# FastF1 download cache (large, re-downloadable)
+fastf1_cache/
+
+# Python / Jupyter junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac junk
+.DS_Store
+
+# Secrets (none needed for this project, but never commit them)
+.env
